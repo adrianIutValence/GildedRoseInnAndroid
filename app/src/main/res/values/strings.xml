@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GildedRoseInn</string>
+    <string name="shop_activity_name">Shop</string>
+    <string name="title_activity_inventory">InventoryActivity</string>
+</resources>
